@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Rookies3Prime/1.0.0": {
+        "runtime": {
+          "Rookies3Prime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rookies3Prime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

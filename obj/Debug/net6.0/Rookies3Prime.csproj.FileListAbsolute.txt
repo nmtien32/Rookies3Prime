@@ -1,0 +1,15 @@
+D:\training\Rookies3Prime\bin\Debug\net6.0\Rookies3Prime.exe
+D:\training\Rookies3Prime\bin\Debug\net6.0\Rookies3Prime.deps.json
+D:\training\Rookies3Prime\bin\Debug\net6.0\Rookies3Prime.runtimeconfig.json
+D:\training\Rookies3Prime\bin\Debug\net6.0\Rookies3Prime.dll
+D:\training\Rookies3Prime\bin\Debug\net6.0\Rookies3Prime.pdb
+D:\training\Rookies3Prime\obj\Debug\net6.0\Rookies3Prime.csproj.AssemblyReference.cache
+D:\training\Rookies3Prime\obj\Debug\net6.0\Rookies3Prime.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\Rookies3Prime\obj\Debug\net6.0\Rookies3Prime.AssemblyInfoInputs.cache
+D:\training\Rookies3Prime\obj\Debug\net6.0\Rookies3Prime.AssemblyInfo.cs
+D:\training\Rookies3Prime\obj\Debug\net6.0\Rookies3Prime.csproj.CoreCompileInputs.cache
+D:\training\Rookies3Prime\obj\Debug\net6.0\Rookies3Prime.dll
+D:\training\Rookies3Prime\obj\Debug\net6.0\refint\Rookies3Prime.dll
+D:\training\Rookies3Prime\obj\Debug\net6.0\Rookies3Prime.pdb
+D:\training\Rookies3Prime\obj\Debug\net6.0\Rookies3Prime.genruntimeconfig.cache
+D:\training\Rookies3Prime\obj\Debug\net6.0\ref\Rookies3Prime.dll
